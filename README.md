@@ -1,5 +1,5 @@
 # DVPieChart
-![1.效果图-w220](https://ws1.sinaimg.cn/large/006tKfTcly1fpuxb8ebcij30ku12a74x.jpg)
+![1.效果图-w230](https://ws1.sinaimg.cn/large/006tKfTcly1fpuxb8ebcij30ku12a74x.jpg)
 
 > 图中不论每个扇形多小，都可以从指引线处将指引的数据分割开来，不会重叠。
 
