@@ -372,7 +372,7 @@
                         margin = CGRectGetMaxY(rect1) - rect.origin.y;
                         endY -= margin;
                         
-                    } else if (rect1.origin.y < CGRectGetMaxY(rect) && rect1.origin.y < CGRectGetMaxY(rect)) {  // 压总位置下面
+                    } else if (rect1.origin.y < CGRectGetMaxY(rect) &&  CGRectGetMaxY(rect1) > CGRectGetMaxY(rect)) {  // 压总位置下面
                         margin = CGRectGetMaxY(rect) - rect1.origin.y;
                         endY += margin;
                     }
